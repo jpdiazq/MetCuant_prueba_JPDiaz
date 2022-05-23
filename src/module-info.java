@@ -1,0 +1,3 @@
+module optimizationTest {
+	requires jblas;
+}
